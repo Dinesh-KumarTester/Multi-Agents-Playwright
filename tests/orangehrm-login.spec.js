@@ -9,8 +9,6 @@ test.describe('OrangeHRM login flow', () => {
   });
 
   test('logs in with valid Admin credentials and lands on dashboard', async () => {
-
-    impl = new Impl(page);
     await impl.openLoginPage();
     await impl.verifyLoginPage();
     await impl.loginWithValidCredentials();
