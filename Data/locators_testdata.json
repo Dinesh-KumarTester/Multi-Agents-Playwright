@@ -1,0 +1,17 @@
+{
+  "URLs": {
+    "LoginURL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "DashboardURL": "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"
+  },
+  "Titles": {
+    "LoginTitle": "OrangeHRM",
+    "DashboardTitle": "OrangeHRM"
+  },
+  "TestData": {
+    "ValidUsername": "Admin",
+    "ValidPassword": "admin123"
+  },
+  "Messages": {
+    "LoggedInUserPattern": "\\S+"
+  }
+}
