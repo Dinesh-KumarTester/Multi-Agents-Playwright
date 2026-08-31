@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","5842","logs in with valid Admin credentials and lands on dashboard","chromium","2026-08-31","passed","2026-08-31","OrangeHRM login flow","orangehrm-login.spec.js","",""
+"","5945","logs in with valid Admin credentials and lands on dashboard","chromium","2026-08-31","passed","2026-08-31","OrangeHRM login flow","orangehrm-login.spec.js","",""
