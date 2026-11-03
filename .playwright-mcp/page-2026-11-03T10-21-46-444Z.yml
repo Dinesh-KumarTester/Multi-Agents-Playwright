@@ -1,0 +1,75 @@
+- main [ref=f1e2]:
+  - generic [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - generic [aria-hidden] [ref=f1e5]: ✦
+      - generic [ref=f1e6]: Quality pulse
+    - generic [ref=f1e7]:
+      - generic [ref=f1e9]: Run failed
+      - generic [aria-hidden] [ref=f1e10]: ·
+      - time [ref=f1e11]: Nov 3, 2026, 3:51 PM
+  - region [ref=f1e12]:
+    - generic [ref=f1e13]: Playwright · execution insights
+    - heading "Test execution report" [level=1] [ref=f1e14]
+    - paragraph [ref=f1e15]: A clear view of what passed, what needs attention, and how this run performed.
+  - region "Execution summary" [ref=f1e16]:
+    - article [ref=f1e17]:
+      - generic [ref=f1e18]:
+        - generic [ref=f1e19]: Overall quality
+        - heading "A few things need attention" [level=2] [ref=f1e20]
+        - paragraph [ref=f1e21]: 0 of 1 tests passed in 3s.
+      - img "Pass rate" [ref=f1e22]:
+        - generic [ref=f1e23]:
+          - text: 0%
+          - generic [ref=f1e24]: pass rate
+    - article [ref=f1e25]:
+      - generic [ref=f1e26]:
+        - generic [ref=f1e27]: Total tests
+        - generic [aria-hidden] [ref=f1e28]: ◎
+      - generic [ref=f1e29]: "1"
+      - generic [ref=f1e30]: Across this execution
+    - article [ref=f1e31]:
+      - generic [ref=f1e32]:
+        - generic [ref=f1e33]: Passed
+        - generic [aria-hidden] [ref=f1e34]: ✓
+      - generic [ref=f1e35]: "0"
+      - generic [ref=f1e36]: 0 recovered tests
+    - article [ref=f1e37]:
+      - generic [ref=f1e38]:
+        - generic [ref=f1e39]: Failed
+        - generic [aria-hidden] [ref=f1e40]: ×
+      - generic [ref=f1e41]: "1"
+      - generic [ref=f1e42]: Need attention
+    - article [ref=f1e43]:
+      - generic [ref=f1e44]:
+        - generic [ref=f1e45]: Skipped
+        - generic [aria-hidden] [ref=f1e46]: Ⅱ
+      - generic [ref=f1e47]: "0"
+      - generic [ref=f1e48]: Not executed
+  - region [ref=f1e49]:
+    - generic [ref=f1e50]:
+      - heading "Test results" [level=2] [ref=f1e51]
+      - generic [ref=f1e52]: 1 of 1 tests
+    - generic [ref=f1e53]:
+      - generic [ref=f1e54]:
+        - generic [aria-hidden]: ⌕
+        - searchbox "Search test results" [ref=f1e55]
+      - combobox "Filter by status" [ref=f1e56]:
+        - option "All statuses" [selected]
+        - option "Passed"
+        - option "Failed"
+        - option "Flaky"
+        - option "Skipped"
+    - group [ref=f1e58]:
+      - generic "× custom report records failed steps and screenshot evidence chromium › custom-html-reporter-validation.spec.js › tests/custom-html-reporter-validation.spec.js Failed 2s ⌄" [ref=f1e59] [cursor=pointer]:
+        - generic [ref=f1e60]:
+          - generic [ref=f1e61]: ×
+          - generic [ref=f1e62]:
+            - generic [ref=f1e63]: custom report records failed steps and screenshot evidence
+            - generic [ref=f1e64]: chromium › custom-html-reporter-validation.spec.js › tests/custom-html-reporter-validation.spec.js
+        - generic [ref=f1e65]:
+          - generic [ref=f1e66]: Failed
+          - generic [ref=f1e67]: 2s
+          - generic [ref=f1e68]: ⌄
+  - generic [ref=f1e69]:
+    - generic [ref=f1e70]: Run duration · 3s
+    - generic [ref=f1e71]: Projects · chromium

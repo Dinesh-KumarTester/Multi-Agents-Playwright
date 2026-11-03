@@ -1,0 +1,74 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [aria-hidden] [ref=e5]: ✦
+      - generic [ref=e6]: Quality pulse
+    - generic [ref=e7]:
+      - generic [ref=e9]: Run complete
+      - generic [aria-hidden] [ref=e10]: ·
+      - time [ref=e11]: Nov 3, 2026, 3:47 PM
+  - region [ref=e12]:
+    - generic [ref=e13]: Playwright · execution insights
+    - heading "Test execution report" [level=1] [ref=e14]
+    - paragraph [ref=e15]: A clear view of what passed, what needs attention, and how this run performed.
+  - region "Execution summary" [ref=e16]:
+    - article [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: Overall quality
+        - heading "Looking good" [level=2] [ref=e20]
+        - paragraph [ref=e21]: 1 of 1 tests passed in 23s.
+      - img "Pass rate" [ref=e22]:
+        - generic [ref=e23]:
+          - text: 100%
+          - generic [ref=e24]: pass rate
+    - article [ref=e25]:
+      - generic [ref=e26]:
+        - generic [ref=e27]: Total tests
+        - generic [aria-hidden] [ref=e28]: ◎
+      - generic [ref=e29]: "1"
+      - generic [ref=e30]: Across this execution
+    - article [ref=e31]:
+      - generic [ref=e32]:
+        - generic [ref=e33]: Passed
+        - generic [aria-hidden] [ref=e34]: ✓
+      - generic [ref=e35]: "1"
+      - generic [ref=e36]: 0 recovered tests
+    - article [ref=e37]:
+      - generic [ref=e38]:
+        - generic [ref=e39]: Failed
+        - generic [aria-hidden] [ref=e40]: ×
+      - generic [ref=e41]: "0"
+      - generic [ref=e42]: Need attention
+    - article [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e45]: Skipped
+        - generic [aria-hidden] [ref=e46]: Ⅱ
+      - generic [ref=e47]: "0"
+      - generic [ref=e48]: Not executed
+  - region [ref=e49]:
+    - generic [ref=e50]:
+      - heading "Test results" [level=2] [ref=e51]
+      - generic [ref=e52]: 1 of 1 tests
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - generic [aria-hidden]: ⌕
+        - searchbox "Search test results" [ref=e55]
+      - combobox "Filter by status" [ref=e57]:
+        - option "All statuses" [selected]
+        - option "Passed"
+        - option "Failed"
+        - option "Flaky"
+        - option "Skipped"
+    - article [ref=e59]:
+      - generic [ref=e60]:
+        - generic [ref=e61]:
+          - generic [ref=e62]: ✓
+          - generic [ref=e63]:
+            - generic [ref=e64]: log in with valid Admin credentials and lands on dashboard
+            - generic [ref=e65]: chromium › chromium › orangehrm-login.spec.js › OrangeHRM login flow › tests\orangehrm-login.spec.js
+        - generic [ref=e66]:
+          - generic [ref=e67]: Passed
+          - generic [ref=e68]: 19s
+  - generic [ref=e69]:
+    - generic [ref=e70]: Run duration · 23s
+    - generic [ref=e71]: Projects · chromium, firefox, webkit

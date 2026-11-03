@@ -1,0 +1,15 @@
+[     816ms] [INFO] 
+IFRAME-RESIZER
+
+Iframe-Resizer 5 is now available via the following two packages:
+
+ * @iframe-resizer/parent
+ * @iframe-resizer/child
+
+Additionally their are also new versions of iframe-resizer for React, Vue, and jQuery.
+
+Version 5 of iframe-resizer has been extensively rewritten to use modern browser APIs, which has enabled significantly better performance and greater accuracy in the detection of content resizing events.
+
+Please see https://iframe-resizer.com/upgrade for more details.
+ @ https://www.standard.com/libraries/iframe-resizer/js/iframeResizer.min.js?v=11.4.8:6
+[     859ms] [INFO] 🌐 i18next is maintained with support from Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://monsido-consent.com/v1/assets/cookie-banner-modern.min.js:0

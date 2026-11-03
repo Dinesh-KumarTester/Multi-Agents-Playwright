@@ -1,0 +1,371 @@
+- generic [ref=f3e1]:
+  - button "Skip to Cookie banner" [ref=f3e2] [cursor=pointer]
+  - navigation "Skip to main content":
+    - link "Skip to main content" [ref=f3e3] [cursor=pointer]:
+      - /url: "#main-content"
+  - generic [ref=f3e4]:
+    - generic [ref=f3e5]:
+      - region "Site alerts" [ref=f3e685]:
+        - alert [ref=f3e686]:
+          - generic [ref=f3e690]:
+            - generic [ref=f3e698]:
+              - heading "Our Expanded Voluntary Product Suite" [level=5] [ref=f3e702]
+              - paragraph [ref=f3e708]:
+                - text: We’re excited to expand our voluntary product suite. Explore our enhanced offerings or browse the full range of
+                - link "workplace benefits (opens in a new window)" [ref=f3e709] [cursor=pointer]:
+                  - /url: /businesses-organizations
+                  - text: workplace
+                  - generic: benefits
+                - text: today.
+            - button "Dismiss alert" [ref=f3e713] [cursor=pointer]
+      - banner [ref=f3e7]:
+        - generic [ref=f3e10]:
+          - generic:
+            - generic [ref=f3e11]:
+              - link "Homepage" [ref=f3e14] [cursor=pointer]:
+                - /url: /
+              - navigation "main menu" [ref=f3e718]:
+                - list [ref=f3e719]:
+                  - listitem [ref=f3e720]:
+                    - button "Individuals & Families" [ref=f3e723] [cursor=pointer]
+                  - listitem [ref=f3e725]:
+                    - button "Businesses & Organizations" [ref=f3e728] [cursor=pointer]
+                  - listitem [ref=f3e730]:
+                    - button "Brokers & Advisors" [ref=f3e733] [cursor=pointer]
+                  - listitem [ref=f3e735]:
+                    - button "Get to Know The Standard" [ref=f3e738] [cursor=pointer]
+              - generic [ref=f3e28]:
+                - link "Log In (opens in a new window)" [ref=f3e34] [cursor=pointer]:
+                  - /url: https://login.standard.com/
+                  - text: Log In
+                - link "Contact Us in Content" [ref=f3e41] [cursor=pointer]:
+                  - /url: /contact-us
+                  - text: Contact
+                  - generic: Us
+              - button "Toggle search" [ref=f3e42] [cursor=pointer]
+            - generic:
+              - generic:
+                - navigation "Secondary Menu"
+    - main "Main site content" [ref=f3e47]:
+      - heading "The Standard home page" [level=1] [ref=f3e48]
+      - article [ref=f3e51]:
+        - generic [ref=f3e54]:
+          - generic [ref=f3e60]:
+            - generic [ref=f3e61]:
+              - heading "Solutions You Can Count On" [level=2] [ref=f3e65]
+              - paragraph [ref=f3e71]: We’re here to smooth the way with the right financial solutions and insurance products for you.
+            - generic [ref=f3e75]:
+              - generic:
+                - generic [ref=f3e76]:
+                  - link "Individuals & Families in Content" [ref=f3e79] [cursor=pointer]:
+                    - /url: /individuals-families
+                    - text: Individuals &
+                    - generic: Families
+                  - paragraph [ref=f3e81]: Learn more about how we can help you and your family achieve financial wellness.
+                - generic [ref=f3e82]:
+                  - link "Businesses & Organizations in Content" [ref=f3e85] [cursor=pointer]:
+                    - /url: /businesses-organizations
+                    - text: Businesses &
+                    - generic: Organizations
+                  - paragraph [ref=f3e87]: Explore the workplace benefits and solutions that are right for you and your employees.
+                - generic [ref=f3e88]:
+                  - link "Brokers & Advisors in Content" [ref=f3e91] [cursor=pointer]:
+                    - /url: /brokers-advisors
+                    - text: Brokers &
+                    - generic: Advisors
+                  - paragraph [ref=f3e93]: View products, services and unique programs for your clients.
+          - article [ref=f3e96]:
+            - generic [ref=f3e111]:
+              - heading "Addressing Growing Interest in Long Term Care Benefits" [level=2] [ref=f3e115]
+              - paragraph [ref=f3e120]: As long term care costs continue to rise, employees are paying closer attention to benefits that can help them prepare for the future. Hybrid life insurance combines life insurance and long term care benefits, helping employees address financial protection needs during their working years and beyond.
+              - link "Learn How Hybrid Life Complements Group Life Insurance" [ref=f3e125] [cursor=pointer]:
+                - /url: /businesses-organizations/trends-resources/employer-resources/why-hybrid-life-insurance-complements-group-life-insurance
+          - generic [ref=f3e136]:
+            - heading "Protecting People and Futures Since 1906" [level=2] [ref=f3e140]
+            - paragraph [ref=f3e145]: Your family. Your team. Your future. For more than a century, we’ve helped people achieve financial well‑being and peace of mind through workplace benefits — including life, disability and retirement solutions. Like the traditions we support in our communities, we believe in showing up, giving back and making a lasting impact. We combine expertise, empathy and straightforward guidance to make protecting what matters most simpler and more personal.
+            - link "Get to Know The Standard" [ref=f3e151] [cursor=pointer]:
+              - /url: /get-to-know-standard
+          - generic [ref=f3e169]:
+            - generic [ref=f3e170]:
+              - heading "Explore Our Offerings" [level=2] [ref=f3e174]
+              - generic [ref=f3e175]: Employers can choose the products and services that match their employees’ needs.
+            - list [ref=f3e180]:
+              - listitem [ref=f3e181]:
+                - link "Life and AD&D in Content" [ref=f3e184] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/life-and-add
+                  - text: Life and
+                  - generic: AD&D
+              - listitem [ref=f3e185]:
+                - link "Short Term Disability in Content" [ref=f3e188] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/short-term-disability
+                  - text: Short Term
+                  - generic: Disability
+              - listitem [ref=f3e189]:
+                - link "Long Term Disability in Content" [ref=f3e192] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/long-term-disability
+                  - text: Long Term
+                  - generic: Disability
+              - listitem [ref=f3e193]:
+                - link "Paid Family and Medical Leave in Content" [ref=f3e196] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/paid-family-medical-leave
+                  - text: Paid Family and Medical
+                  - generic: Leave
+              - listitem [ref=f3e197]:
+                - link "Dental in Content" [ref=f3e200] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/dental
+                  - generic: Dental
+              - listitem [ref=f3e201]:
+                - link "Vision in Content" [ref=f3e204] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/vision
+                  - generic: Vision
+              - listitem [ref=f3e205]:
+                - link "Accident in Content" [ref=f3e208] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/accident
+                  - generic: Accident
+              - listitem [ref=f3e209]:
+                - link "Cancer in Content" [ref=f3e212] [cursor=pointer]:
+                  - /url: /individuals-families/workplace-benefits/cancer
+                  - generic: Cancer
+              - listitem [ref=f3e213]:
+                - link "Critical Illness* in Content" [ref=f3e216] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/critical-illness
+                  - text: Critical
+                  - generic: Illness*
+              - listitem [ref=f3e217]:
+                - link "Hospital Indemnity in Content" [ref=f3e220] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/hospital-indemnity
+                  - text: Hospital
+                  - generic: Indemnity
+              - listitem [ref=f3e221]:
+                - link "Voluntary Life in Content" [ref=f3e224] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/voluntary-life
+                  - text: Voluntary
+                  - generic: Life
+              - listitem [ref=f3e225]:
+                - link "Supplemental Insurance in New York in Content" [ref=f3e228] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/supplemental-insurance-new-york
+                  - text: Supplemental Insurance in New
+                  - generic: York
+              - listitem [ref=f3e229]:
+                - link "Retirement Plans in Content" [ref=f3e232] [cursor=pointer]:
+                  - /url: /businesses-organizations/retirement
+                  - text: Retirement
+                  - generic: Plans
+          - generic [ref=f3e238]:
+            - generic [ref=f3e239]:
+              - heading "Support and Solutions for All Workplaces" [level=2] [ref=f3e243]
+              - paragraph [ref=f3e248]: We have benefits and solutions for clients of all sizes and types.
+              - link "Learn How We Can Support Your Workplace" [ref=f3e253] [cursor=pointer]:
+                - /url: /businesses-organizations
+            - generic [ref=f3e258]:
+              - generic:
+                - article [ref=f3e259]:
+                  - generic [ref=f3e316]:
+                    - heading "Workplace Possibilities℠ Program" [level=3] [ref=f3e319]
+                    - paragraph [ref=f3e325]: Learn about our proactive, whole-person approach to disability. We can provide personalized support to help employees stay at work or get back to work safely.
+                    - link "Explore the Workplace Possibilities Program in Content" [ref=f3e330] [cursor=pointer]:
+                      - /url: /businesses-organizations/workplace-benefits/workplace-possibilities-program
+                      - text: Explore the Workplace Possibilities
+                      - generic: Program
+                - article [ref=f3e331]:
+                  - generic [ref=f3e411]:
+                    - heading "Benefits Administration and Support" [level=3] [ref=f3e414]
+                    - paragraph [ref=f3e420]: Move forward with a dependable benefits administration experience, thanks to our partnerships with innovative companies. You get the support you need at every step, from enrollment to billing.
+                - article [ref=f3e421]:
+                  - generic [ref=f3e448]:
+                    - heading "Small Business Solutions" [level=3] [ref=f3e451]
+                    - paragraph [ref=f3e457]: Get the insurance and investment products you need for your small business, without sacrificing quality service.
+                - article [ref=f3e458]:
+                  - generic [ref=f3e484]:
+                    - heading "Best-in-Class Service" [level=3] [ref=f3e487]
+                    - paragraph [ref=f3e493]: Rely on service that’s based on our people-first commitment.
+          - generic [ref=f3e528]:
+            - heading "Join Our Team" [level=2] [ref=f3e532]
+            - generic [ref=f3e533]: Great opportunities for great people are always available here.
+            - link "Explore Careers" [ref=f3e541] [cursor=pointer]:
+              - /url: /get-to-know-standard/careers
+    - contentinfo [ref=f3e542]:
+      - generic [ref=f3e547]:
+        - generic [ref=f3e548]:
+          - navigation "Footer Menu" [ref=f3e553]:
+            - list [ref=f3e554]:
+              - listitem [ref=f3e555]:
+                - link "Individuals & Families" [ref=f3e557] [cursor=pointer]:
+                  - /url: /individuals-families
+                - list [ref=f3e558]:
+                  - listitem [ref=f3e559]:
+                    - link "Personal Insurance & Investments" [ref=f3e561] [cursor=pointer]:
+                      - /url: /individuals-families/personal-insurance-investments
+                  - listitem [ref=f3e562]:
+                    - link "Workplace Benefits for Individuals and Families" [ref=f3e564] [cursor=pointer]:
+                      - /url: /individuals-families/workplace-benefits
+                      - text: Workplace Benefits
+              - listitem [ref=f3e565]:
+                - link "Businesses & Organizations" [ref=f3e567] [cursor=pointer]:
+                  - /url: /businesses-organizations
+                - list [ref=f3e568]:
+                  - listitem [ref=f3e569]:
+                    - link "Workplace Benefits for Businesses and Organizations" [ref=f3e571] [cursor=pointer]:
+                      - /url: /businesses-organizations/workplace-benefits
+                      - text: Workplace Benefits
+                  - listitem [ref=f3e572]:
+                    - link "Retirement Plans for Businesses and Organizations" [ref=f3e574] [cursor=pointer]:
+                      - /url: /businesses-organizations/retirement
+                      - text: Retirement
+                  - listitem [ref=f3e575]:
+                    - link "Trends & Employer Resources" [ref=f3e577] [cursor=pointer]:
+                      - /url: /businesses-organizations/trends-resources
+              - listitem [ref=f3e578]:
+                - link "Brokers & Advisors" [ref=f3e580] [cursor=pointer]:
+                  - /url: /brokers-advisors
+                - list [ref=f3e581]:
+                  - listitem [ref=f3e582]:
+                    - link "Insurance" [ref=f3e584] [cursor=pointer]:
+                      - /url: /brokers-advisors/insurance-benefits
+                  - listitem [ref=f3e585]:
+                    - link "Retirement Plans for Advisors and TPAs" [ref=f3e587] [cursor=pointer]:
+                      - /url: /brokers-advisors/retirement
+                      - text: Retirement
+                  - listitem [ref=f3e588]:
+                    - link "Stable Value" [ref=f3e590] [cursor=pointer]:
+                      - /url: /brokers-advisors/stable-value-funds
+                  - listitem [ref=f3e591]:
+                    - link "Individual Disability" [ref=f3e593] [cursor=pointer]:
+                      - /url: /brokers-advisors/individual-disability
+                  - listitem [ref=f3e594]:
+                    - link "Annuities for Producers" [ref=f3e596] [cursor=pointer]:
+                      - /url: /brokers-advisors/annuities
+                      - text: Annuities
+              - listitem [ref=f3e597]:
+                - link "Get to Know The Standard" [ref=f3e599] [cursor=pointer]:
+                  - /url: /get-to-know-standard
+                - list [ref=f3e600]:
+                  - listitem [ref=f3e601]:
+                    - link "Community Impact" [ref=f3e603] [cursor=pointer]:
+                      - /url: /get-to-know-standard/community-impact
+                  - listitem [ref=f3e604]:
+                    - link "Newsroom" [ref=f3e606] [cursor=pointer]:
+                      - /url: /get-to-know-standard/newsroom
+                  - listitem [ref=f3e607]:
+                    - link "Research & Insights" [ref=f3e609] [cursor=pointer]:
+                      - /url: /get-to-know-standard/research-insights
+                  - listitem [ref=f3e610]:
+                    - link "Careers" [ref=f3e612] [cursor=pointer]:
+                      - /url: /get-to-know-standard/careers
+          - generic [ref=f3e613]:
+            - list [ref=f3e618]:
+              - listitem [ref=f3e619]:
+                - link "Contact Us in Footer" [ref=f3e622] [cursor=pointer]:
+                  - /url: /contact-us
+                  - text: Contact
+                  - generic: Us
+              - listitem [ref=f3e623]:
+                - link "File a Claim or Request a Leave in Footer" [ref=f3e626] [cursor=pointer]:
+                  - /url: /individuals-families/file-claim
+                  - text: File a Claim or Request a
+                  - generic: Leave
+              - listitem [ref=f3e627]:
+                - link "Find a Form in Footer" [ref=f3e630] [cursor=pointer]:
+                  - /url: /individuals-families/forms-page
+                  - text: Find a
+                  - generic: Form
+              - listitem [ref=f3e631]:
+                - link "Create an Account in Footer" [ref=f3e634] [cursor=pointer]:
+                  - /url: /individuals-families/create-account
+                  - text: Create an
+                  - generic: Account
+            - list [ref=f3e639]:
+              - listitem [ref=f3e640]:
+                - link "Visit Linked In For the Standard (opens in a new window)" [ref=f3e641] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/the-standard/
+              - listitem [ref=f3e645]:
+                - link "Visit Instagram for The Standard (opens in a new window)" [ref=f3e646] [cursor=pointer]:
+                  - /url: https://www.instagram.com/the.standard.us
+        - separator [ref=f3e650]
+        - generic [ref=f3e653]:
+          - navigation "Utility Links" [ref=f3e656]:
+            - list [ref=f3e657]:
+              - listitem [ref=f3e658]:
+                - link "Accessibility" [ref=f3e659] [cursor=pointer]:
+                  - /url: /get-to-know-standard/accessibility
+              - listitem [ref=f3e660]:
+                - link "Responsible Disclosure Program" [ref=f3e661] [cursor=pointer]:
+                  - /url: /get-to-know-standard/responsible-disclosure-program
+              - listitem [ref=f3e662]:
+                - link "Fraud Prevention" [ref=f3e663] [cursor=pointer]:
+                  - /url: /get-to-know-standard/insurance-fraud-prevention
+              - listitem [ref=f3e664]:
+                - link "Privacy & Legal" [ref=f3e665] [cursor=pointer]:
+                  - /url: /get-to-know-standard/legal-privacy
+              - listitem [ref=f3e666]:
+                - button "Cookie Preferences" [ref=f3e667] [cursor=pointer]
+          - generic [ref=f3e668]:
+            - article [ref=f3e669]:
+              - paragraph [ref=f3e673]: "* Critical Illness insurance is called Specified Disease insurance in New York and Vermont."
+            - article [ref=f3e674]:
+              - paragraph [ref=f3e678]: The Standard is a marketing name for Standard Insurance Company (Portland, Oregon), licensed in all states except New York, and The Standard Life Insurance Company of New York (White Plains, New York), licensed only in New York, and American Heritage Life Insurance Company (Jacksonville, Florida), licensed in all states except New York. Products and availability vary by state and are solely the responsibility of the applicable insurance company.
+          - generic [ref=f3e679]: © 2026 StanCorp Financial Group, Inc.
+  - navigation "Jump back to top":
+    - link "Jump back to top" [ref=f3e683] [cursor=pointer]:
+      - /url: "#main-content"
+  - dialog "Acquia Web Governance Cookie Banner" [ref=f3e742]:
+    - generic [ref=f3e744]:
+      - button "Close" [ref=f3e748] [cursor=pointer]
+      - generic [ref=f3e754]:
+        - generic [ref=f3e756]:
+          - heading "Advanced Cookie Options" [level=1] [ref=f3e757]
+          - paragraph [ref=f3e758]: While some cookies are important for the functionality of the site others ensure a better and more customised user experience. The collected data might be used for marketing or analytic purposes.
+        - generic [ref=f3e760]:
+          - generic [ref=f3e761]:
+            - generic [ref=f3e762]:
+              - generic [ref=f3e763]: Essential
+              - generic [ref=f3e764]: These cookies are required to enable basic website functionality.
+            - generic [ref=f3e767]:
+              - checkbox "Toggle Essential cookie consent" [checked] [disabled]
+              - generic [ref=f3e771]: Toggle Essential cookie consent
+          - generic [ref=f3e772]:
+            - generic [ref=f3e773]:
+              - generic [ref=f3e774]: Basic
+              - generic [ref=f3e775]: These cookies are used to provide basic interactions and functionalities that allow you to access selected features of our service and facilitate your communication with us.
+            - generic [ref=f3e778]:
+              - checkbox "Toggle Basic cookie consent" [checked]
+              - generic [ref=f3e779] [cursor=pointer]
+              - generic [ref=f3e782]: Toggle Basic cookie consent
+          - generic [ref=f3e783]:
+            - generic [ref=f3e784]:
+              - generic [ref=f3e785]: Marketing
+              - generic [ref=f3e786]: These cookies are used to provide advertising that is tailored to you and your particular interests. Marketing cookies can also be used to restrict the number of times an advertisement is displayed and to measure the efficacy of advertising campaigns. Advertising networks usually place marketing cookies with the website operator’s permission.
+            - generic [ref=f3e789]:
+              - checkbox "Toggle Marketing cookie consent" [checked]
+              - generic [ref=f3e790] [cursor=pointer]
+              - generic [ref=f3e793]: Toggle Marketing cookie consent
+          - generic [ref=f3e794]:
+            - generic [ref=f3e795]:
+              - generic [ref=f3e796]: Statistics
+              - generic [ref=f3e797]: These cookies allow website operators to identify technical issues and understand how a site is performing. They can also be used to see how visitors interact with the site and usually do not collect information that identifies visitors.
+            - generic [ref=f3e800]:
+              - checkbox "Toggle Statistics cookie consent" [checked]
+              - generic [ref=f3e801] [cursor=pointer]
+              - generic [ref=f3e804]: Toggle Statistics cookie consent
+          - generic [ref=f3e805]:
+            - generic [ref=f3e806]:
+              - generic [ref=f3e807]: Preferences
+              - generic [ref=f3e808]: These cookies allow the website to keep track of your choices (e.g. region, user name, language) in order to provide more personalized features that correspond with them. A website may, for example, provide you with local traffic information based on data stored about your current location.
+            - generic [ref=f3e811]:
+              - checkbox "Toggle Preferences cookie consent" [checked]
+              - generic [ref=f3e812] [cursor=pointer]
+              - generic [ref=f3e815]: Toggle Preferences cookie consent
+        - generic [ref=f3e817]:
+          - generic [ref=f3e818]:
+            - link "Read our Privacy Policy" [ref=f3e820] [cursor=pointer]:
+              - /url: https://www.standard.com/get-to-know-standard/legal-privacy/standards-privacy-notice
+            - button "Cookie Overview" [ref=f3e822] [cursor=pointer]
+          - button "Accept Preferences" [ref=f3e826] [cursor=pointer]
+      - link "Powered by Acquia Web Governance. The link opens in a new tab" [ref=f3e830] [cursor=pointer]:
+        - /url: https://www.acquia.com/products/monsido
+        - generic [ref=f3e831]: Powered by
+        - generic [ref=f3e832]: Acquia Web Governance. The link opens in a new tab
+    - generic: "Following cookies accepted: essential, basic, marketing, analytics, preferences."
+  - button "Give Feedback" [ref=f3e838] [cursor=pointer]
+  - dialog [aria-hidden] [ref=f3e841]:
+    - button [ref=f3e843] [cursor=pointer]

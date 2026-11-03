@@ -1,0 +1,81 @@
+- generic [ref=f11e2]:
+  - alert [ref=f11e3]: Log In | The Standard is loaded
+  - navigation "navigation" [ref=f11e4]:
+    - link "Skip to main content" [ref=f11e5] [cursor=pointer]:
+      - /url: "#main-content"
+    - link "Skip to footer" [ref=f11e7] [cursor=pointer]:
+      - /url: "#footer"
+  - generic [ref=f11e10]:
+    - banner [ref=f11e13]:
+      - link "The Standard logo" [ref=f11e16] [cursor=pointer]:
+        - /url: /
+        - img "The Standard" [ref=f11e17]
+      - generic "help" [ref=f11e20]:
+        - link "Help" [ref=f11e26] [cursor=pointer]:
+          - /url: https://www.standard.com/individual/contact-us
+    - main [ref=f11e35]:
+      - generic [ref=f11e43]:
+        - heading "Welcome" [level=1] [ref=f11e46]
+        - generic [ref=f11e47]:
+          - generic [ref=f11e52]:
+            - heading "Log in for full account access" [level=2] [ref=f11e53]
+            - form "Login Details" [ref=f11e54]:
+              - generic [ref=f11e61]:
+                - generic [ref=f11e62]: User Name
+                - textbox "User Name" [ref=f11e63]
+              - generic [ref=f11e66]:
+                - generic [ref=f11e72]:
+                  - generic [ref=f11e73]: Password
+                  - textbox "Password" [ref=f11e74]
+                - button "Show" [ref=f11e78] [cursor=pointer]
+              - button "Log In" [ref=f11e87] [cursor=pointer]
+              - generic [ref=f11e89]:
+                - link "Forgot user name?" [ref=f11e92] [cursor=pointer]:
+                  - /url: /forgot-username
+                - generic [ref=f11e94]: "|"
+                - link "Forgot password?" [ref=f11e97] [cursor=pointer]:
+                  - /url: /forgot-password
+          - generic [ref=f11e103]:
+            - heading "Log in for Dental & Vision (ONLY)" [level=2] [ref=f11e104]
+            - generic [ref=f11e106]:
+              - heading "Members" [level=3] [ref=f11e107]
+              - list [ref=f11e108]:
+                - listitem [ref=f11e109]:
+                  - link "If your employer is based outside of New York opens in a new tab" [ref=f11e111] [cursor=pointer]:
+                    - /url: https://wf.employeebenefitservice.com/standard/member
+                    - generic [ref=f11e112]: If your employer is based outside of New York
+                - listitem [ref=f11e113]:
+                  - link "If your employer is based in New York opens in a new tab" [ref=f11e115] [cursor=pointer]:
+                    - /url: https://wf.employeebenefitservice.com/standard/member-ny
+                    - generic [ref=f11e116]: If your employer is based in New York
+            - generic [ref=f11e117]:
+              - heading "Employers" [level=3] [ref=f11e118]
+              - list [ref=f11e119]:
+                - listitem [ref=f11e120]:
+                  - link "If based outside of New York opens in a new tab" [ref=f11e122] [cursor=pointer]:
+                    - /url: https://wf.employeebenefitservice.com/standard/ba
+                    - generic [ref=f11e123]: If based outside of New York
+                - listitem [ref=f11e124]:
+                  - link "If based in New York opens in a new tab" [ref=f11e126] [cursor=pointer]:
+                    - /url: https://wf.employeebenefitservice.com/standard/ba-ny
+                    - generic [ref=f11e127]: If based in New York
+        - generic [ref=f11e128]:
+          - paragraph [ref=f11e130]:
+            - text: New here?
+            - link "Create an account" [ref=f11e132] [cursor=pointer]:
+              - /url: https://www.standard.com/create-account
+            - text: to connect to services.
+          - generic [ref=f11e134]:
+            - paragraph
+    - generic "footer content" [ref=f11e136]:
+      - contentinfo [ref=f11e137]:
+        - generic [ref=f11e138]: The Standard is a marketing name for Standard Insurance Company (Portland, Oregon), licensed in all states except New York, and The Standard Life Insurance Company of New York (White Plains, New York), licensed only in New York. Products and availability vary by state and are solely the responsibility of the applicable insurance company.
+        - generic [ref=f11e139]:
+          - generic [ref=f11e140]: © 2026 StanCorp Financial Group, Inc.
+          - generic [ref=f11e141]:
+            - link "Data & Identity Protection opens in a new tab" [ref=f11e143] [cursor=pointer]:
+              - /url: https://www.standard.com/protect-your-identity
+              - generic [ref=f11e144]: Data & Identity Protection
+            - link "Privacy & Legal opens in a new tab" [ref=f11e146] [cursor=pointer]:
+              - /url: https://www.standard.com/legal-privacy
+              - generic [ref=f11e147]: Privacy & Legal

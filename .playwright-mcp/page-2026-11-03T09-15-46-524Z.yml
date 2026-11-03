@@ -1,0 +1,243 @@
+- generic [active] [ref=f9e1]:
+  - button "Skip to Cookie banner" [ref=f9e2] [cursor=pointer]
+  - navigation "Skip to main content":
+    - link "Skip to main content" [ref=f9e3] [cursor=pointer]:
+      - /url: "#main-content"
+  - generic [ref=f9e4]:
+    - generic [ref=f9e5]:
+      - region "Site alerts" [ref=f9e7]:
+        - alert [ref=f9e8]:
+          - generic [ref=f9e20]:
+            - heading "Customers With Policies Transitioning From the Allstate Employer Voluntary Benefits Acquisition" [level=5] [ref=f9e24]
+            - paragraph [ref=f9e30]:
+              - link "Access (opens in a new window)" [ref=f9e31] [cursor=pointer]:
+                - /url: https://mybenefits.standard.com/#/login
+                - generic: Access
+              - text: your benefits or
+              - link "view contact options (opens in a new window)" [ref=f9e32] [cursor=pointer]:
+                - /url: https://www.standard.com/ahl/contact-us
+                - text: view contact
+                - generic: options
+              - text: if you need support.
+      - banner [ref=f9e34]:
+        - generic [ref=f9e37]:
+          - generic:
+            - generic [ref=f9e38]:
+              - link "Homepage" [ref=f9e41] [cursor=pointer]:
+                - /url: /
+              - navigation "main menu" [ref=f9e57]:
+                - list [ref=f9e58]:
+                  - listitem [ref=f9e59]:
+                    - button "Individuals & Families" [ref=f9e62] [cursor=pointer]
+                  - listitem [ref=f9e64]:
+                    - button "Businesses & Organizations" [ref=f9e67] [cursor=pointer]
+                  - listitem [ref=f9e69]:
+                    - button "Brokers & Advisors" [ref=f9e72] [cursor=pointer]
+                  - listitem [ref=f9e74]:
+                    - button "Get to Know The Standard" [ref=f9e77] [cursor=pointer]
+              - generic [ref=f9e79]:
+                - link "Log In (opens in a new window)" [ref=f9e85] [cursor=pointer]:
+                  - /url: https://login.standard.com/
+                  - text: Log In
+                - link "Contact Us in Content" [ref=f9e92] [cursor=pointer]:
+                  - /url: /contact-us
+                  - text: Contact
+                  - generic: Us
+              - button "Toggle search" [ref=f9e93] [cursor=pointer]
+            - navigation "Secondary Menu" [ref=f9e98]:
+              - list [ref=f9e101]:
+                - listitem [ref=f9e102]:
+                  - link "Personal Insurance & Investments" [ref=f9e103] [cursor=pointer]:
+                    - /url: /individuals-families/personal-insurance-investments
+                - listitem [ref=f9e104]:
+                  - link "Workplace Benefits for Individuals and Families" [ref=f9e105] [cursor=pointer]:
+                    - /url: /individuals-families/workplace-benefits
+                    - text: Workplace Benefits
+    - main "Main site content" [ref=f9e106]:
+      - generic [ref=f9e108]:
+        - navigation "breadcrumb" [ref=f9e110]:
+          - list [ref=f9e116]:
+            - listitem [ref=f9e117]:
+              - link "Home" [ref=f9e118] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f9e122]:
+              - link "Individuals & Families" [ref=f9e123] [cursor=pointer]:
+                - /url: /individuals-families
+            - listitem [ref=f9e124]: Create an Account
+        - heading "Create an Account" [level=1] [ref=f9e135]
+      - article [ref=f9e138]:
+        - generic [ref=f9e141]:
+          - generic [ref=f9e150]:
+            - generic [ref=f9e152]:
+              - heading "What Are You Attempting to Access?" [level=2] [ref=f9e156]
+              - paragraph [ref=f9e161]:
+                - text: If you already have an account, you may
+                - link "log in" [ref=f9e162] [cursor=pointer]:
+                  - /url: /login
+                - text: .
+            - generic [ref=f9e168]:
+              - generic:
+                - generic [ref=f9e169]:
+                  - heading [level=3] [ref=f9e171]:
+                    - button "My Retirement Plan" [ref=f9e172]
+                  - separator
+                - generic [ref=f9e178]:
+                  - heading [level=3] [ref=f9e180]:
+                    - button "My Annuity" [ref=f9e181]
+                  - separator
+                - generic [ref=f9e187]:
+                  - heading [level=3] [ref=f9e189]:
+                    - button "Absence Management" [ref=f9e190]
+                  - separator
+                - generic [ref=f9e196]:
+                  - heading [level=3] [ref=f9e198]:
+                    - button "My Workplace Benefits" [ref=f9e199]
+                  - separator
+                - generic [ref=f9e205]:
+                  - heading [level=3] [ref=f9e207]:
+                    - button "My Anthem Life (Formerly) Benefits" [ref=f9e208]
+                  - separator
+                - generic [ref=f9e214]:
+                  - heading [level=3] [ref=f9e216]:
+                    - button "My Personal Insurance Coverage" [ref=f9e217]
+                  - separator
+          - generic [ref=f9e228]:
+            - generic:
+              - heading "Employers and Financial Professionals" [level=2] [ref=f9e229]
+              - paragraph [ref=f9e230]:
+                - text: View online services for
+                - link "businesses and organizations" [ref=f9e231] [cursor=pointer]:
+                  - /url: /employer/online-services-employers
+                - text: or
+                - link "brokers and advisors" [ref=f9e232] [cursor=pointer]:
+                  - /url: /financial-professional/online-services-brokers-and-advisors
+                - text: .
+              - paragraph [ref=f9e233]
+              - heading "Need Help?" [level=2] [ref=f9e234]
+              - paragraph [ref=f9e235]:
+                - link "Contact us" [ref=f9e236] [cursor=pointer]:
+                  - /url: /contact-us
+                - text: for assistance.
+    - contentinfo [ref=f9e237]:
+      - generic [ref=f9e242]:
+        - generic [ref=f9e243]:
+          - navigation "Footer Menu" [ref=f9e248]:
+            - list [ref=f9e249]:
+              - listitem [ref=f9e250]:
+                - link "Individuals & Families" [ref=f9e252] [cursor=pointer]:
+                  - /url: /individuals-families
+                - list [ref=f9e253]:
+                  - listitem [ref=f9e254]:
+                    - link "Personal Insurance & Investments" [ref=f9e256] [cursor=pointer]:
+                      - /url: /individuals-families/personal-insurance-investments
+                  - listitem [ref=f9e257]:
+                    - link "Workplace Benefits for Individuals and Families" [ref=f9e259] [cursor=pointer]:
+                      - /url: /individuals-families/workplace-benefits
+                      - text: Workplace Benefits
+              - listitem [ref=f9e260]:
+                - link "Businesses & Organizations" [ref=f9e262] [cursor=pointer]:
+                  - /url: /businesses-organizations
+                - list [ref=f9e263]:
+                  - listitem [ref=f9e264]:
+                    - link "Workplace Benefits for Businesses and Organizations" [ref=f9e266] [cursor=pointer]:
+                      - /url: /businesses-organizations/workplace-benefits
+                      - text: Workplace Benefits
+                  - listitem [ref=f9e267]:
+                    - link "Retirement Plans for Businesses and Organizations" [ref=f9e269] [cursor=pointer]:
+                      - /url: /businesses-organizations/retirement
+                      - text: Retirement
+                  - listitem [ref=f9e270]:
+                    - link "Trends & Employer Resources" [ref=f9e272] [cursor=pointer]:
+                      - /url: /businesses-organizations/trends-resources
+              - listitem [ref=f9e273]:
+                - link "Brokers & Advisors" [ref=f9e275] [cursor=pointer]:
+                  - /url: /brokers-advisors
+                - list [ref=f9e276]:
+                  - listitem [ref=f9e277]:
+                    - link "Insurance" [ref=f9e279] [cursor=pointer]:
+                      - /url: /brokers-advisors/insurance-benefits
+                  - listitem [ref=f9e280]:
+                    - link "Retirement Plans for Advisors and TPAs" [ref=f9e282] [cursor=pointer]:
+                      - /url: /brokers-advisors/retirement
+                      - text: Retirement
+                  - listitem [ref=f9e283]:
+                    - link "Stable Value" [ref=f9e285] [cursor=pointer]:
+                      - /url: /brokers-advisors/stable-value-funds
+                  - listitem [ref=f9e286]:
+                    - link "Individual Disability" [ref=f9e288] [cursor=pointer]:
+                      - /url: /brokers-advisors/individual-disability
+                  - listitem [ref=f9e289]:
+                    - link "Annuities for Producers" [ref=f9e291] [cursor=pointer]:
+                      - /url: /brokers-advisors/annuities
+                      - text: Annuities
+              - listitem [ref=f9e292]:
+                - link "Get to Know The Standard" [ref=f9e294] [cursor=pointer]:
+                  - /url: /get-to-know-standard
+                - list [ref=f9e295]:
+                  - listitem [ref=f9e296]:
+                    - link "Community Impact" [ref=f9e298] [cursor=pointer]:
+                      - /url: /get-to-know-standard/community-impact
+                  - listitem [ref=f9e299]:
+                    - link "Newsroom" [ref=f9e301] [cursor=pointer]:
+                      - /url: /get-to-know-standard/newsroom
+                  - listitem [ref=f9e302]:
+                    - link "Research & Insights" [ref=f9e304] [cursor=pointer]:
+                      - /url: /get-to-know-standard/research-insights
+                  - listitem [ref=f9e305]:
+                    - link "Careers" [ref=f9e307] [cursor=pointer]:
+                      - /url: /get-to-know-standard/careers
+          - generic [ref=f9e308]:
+            - list [ref=f9e313]:
+              - listitem [ref=f9e314]:
+                - link "Contact Us in Footer" [ref=f9e317] [cursor=pointer]:
+                  - /url: /contact-us
+                  - text: Contact
+                  - generic: Us
+              - listitem [ref=f9e318]:
+                - link "File a Claim or Request a Leave in Footer" [ref=f9e321] [cursor=pointer]:
+                  - /url: /individuals-families/file-claim
+                  - text: File a Claim or Request a
+                  - generic: Leave
+              - listitem [ref=f9e322]:
+                - link "Find a Form in Footer" [ref=f9e325] [cursor=pointer]:
+                  - /url: /individuals-families/forms-page
+                  - text: Find a
+                  - generic: Form
+              - listitem [ref=f9e326]:
+                - link "Create an Account in Footer" [ref=f9e329] [cursor=pointer]:
+                  - /url: /individuals-families/create-account
+                  - text: Create an
+                  - generic: Account
+            - list [ref=f9e334]:
+              - listitem [ref=f9e335]:
+                - link "Visit Linked In For the Standard (opens in a new window)" [ref=f9e336] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/the-standard/
+              - listitem [ref=f9e340]:
+                - link "Visit Instagram for The Standard (opens in a new window)" [ref=f9e341] [cursor=pointer]:
+                  - /url: https://www.instagram.com/the.standard.us
+        - separator [ref=f9e345]
+        - generic [ref=f9e348]:
+          - navigation "Utility Links" [ref=f9e351]:
+            - list [ref=f9e352]:
+              - listitem [ref=f9e353]:
+                - link "Accessibility" [ref=f9e354] [cursor=pointer]:
+                  - /url: /get-to-know-standard/accessibility
+              - listitem [ref=f9e355]:
+                - link "Responsible Disclosure Program" [ref=f9e356] [cursor=pointer]:
+                  - /url: /get-to-know-standard/responsible-disclosure-program
+              - listitem [ref=f9e357]:
+                - link "Fraud Prevention" [ref=f9e358] [cursor=pointer]:
+                  - /url: /get-to-know-standard/insurance-fraud-prevention
+              - listitem [ref=f9e359]:
+                - link "Privacy & Legal" [ref=f9e360] [cursor=pointer]:
+                  - /url: /get-to-know-standard/legal-privacy
+              - listitem [ref=f9e361]:
+                - button "Cookie Preferences" [ref=f9e362] [cursor=pointer]
+          - article [ref=f9e364]:
+            - paragraph [ref=f9e368]: The Standard is a marketing name for Standard Insurance Company (Portland, Oregon), licensed in all states except New York, and The Standard Life Insurance Company of New York (White Plains, New York), licensed only in New York. Products and availability vary by state and are solely the responsibility of the applicable insurance company.
+          - generic [ref=f9e369]: © 2026 StanCorp Financial Group, Inc.
+  - navigation "Jump back to top":
+    - link "Jump back to top" [ref=f9e373] [cursor=pointer]:
+      - /url: "#main-content"
+  - generic:
+    - dialog "Acquia Web Governance Cookie Banner"

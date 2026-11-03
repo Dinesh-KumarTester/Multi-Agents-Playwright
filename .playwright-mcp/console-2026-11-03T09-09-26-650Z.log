@@ -1,0 +1,6 @@
+[     874ms] [ERROR] Access to manifest at 'https://cm.standard.com/sites/default/files/favicons/site.webmanifest' from origin 'https://login.standard.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://login.standard.com/:0
+[     875ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://cm.standard.com/sites/default/files/favicons/site.webmanifest:0
+[    1339ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://login.standard.com/po/user/get:0
+[    2155ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://login.standard.com/dv/user/get:0
+[    2159ms] [ERROR] Access to manifest at 'https://cm.standard.com/sites/default/files/favicons/site.webmanifest' from origin 'https://login.standard.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://login.standard.com/:0
+[    2159ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://cm.standard.com/sites/default/files/favicons/site.webmanifest:0

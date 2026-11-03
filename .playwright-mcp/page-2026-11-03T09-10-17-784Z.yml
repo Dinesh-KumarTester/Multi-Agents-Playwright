@@ -1,0 +1,305 @@
+- generic [active] [ref=f10e1]:
+  - button "Skip to Cookie banner" [ref=f10e2] [cursor=pointer]
+  - navigation "Skip to main content":
+    - link "Skip to main content" [ref=f10e3] [cursor=pointer]:
+      - /url: "#main-content"
+  - generic [ref=f10e4]:
+    - generic [ref=f10e5]:
+      - region "Site alerts" [ref=f10e7]:
+        - alert [ref=f10e8]:
+          - generic [ref=f10e12]:
+            - generic [ref=f10e20]:
+              - heading "Our Expanded Voluntary Product Suite" [level=5] [ref=f10e24]
+              - paragraph [ref=f10e30]:
+                - text: We’re excited to expand our voluntary product suite. Explore our enhanced offerings or browse the full range of
+                - link "workplace benefits (opens in a new window)" [ref=f10e31] [cursor=pointer]:
+                  - /url: /businesses-organizations
+                  - text: workplace
+                  - generic: benefits
+                - text: today.
+            - button "Dismiss alert" [ref=f10e35] [cursor=pointer]
+      - banner [ref=f10e39]:
+        - generic [ref=f10e42]:
+          - generic:
+            - generic [ref=f10e43]:
+              - link "Homepage" [ref=f10e46] [cursor=pointer]:
+                - /url: /
+              - generic:
+                - generic:
+                  - generic:
+                    - navigation "main menu":
+                      - list
+              - generic [ref=f10e60]:
+                - link "Log In (opens in a new window)" [ref=f10e66] [cursor=pointer]:
+                  - /url: https://login.standard.com/
+                  - text: Log In
+                - link "Contact Us in Content" [ref=f10e73] [cursor=pointer]:
+                  - /url: /contact-us
+                  - text: Contact
+                  - generic: Us
+              - button "Toggle search" [ref=f10e74] [cursor=pointer]
+            - generic:
+              - generic:
+                - navigation "Secondary Menu"
+    - main "Main site content" [ref=f10e79]:
+      - heading "The Standard home page" [level=1] [ref=f10e80]
+      - article [ref=f10e83]:
+        - generic [ref=f10e86]:
+          - generic [ref=f10e92]:
+            - generic [ref=f10e93]:
+              - heading "Solutions You Can Count On" [level=2] [ref=f10e97]
+              - paragraph [ref=f10e103]: We’re here to smooth the way with the right financial solutions and insurance products for you.
+            - generic [ref=f10e107]:
+              - generic:
+                - generic [ref=f10e108]:
+                  - link "Individuals & Families in Content" [ref=f10e111] [cursor=pointer]:
+                    - /url: /individuals-families
+                    - text: Individuals &
+                    - generic: Families
+                  - paragraph [ref=f10e113]: Learn more about how we can help you and your family achieve financial wellness.
+                - generic [ref=f10e114]:
+                  - link "Businesses & Organizations in Content" [ref=f10e117] [cursor=pointer]:
+                    - /url: /businesses-organizations
+                    - text: Businesses &
+                    - generic: Organizations
+                  - paragraph [ref=f10e119]: Explore the workplace benefits and solutions that are right for you and your employees.
+                - generic [ref=f10e120]:
+                  - link "Brokers & Advisors in Content" [ref=f10e123] [cursor=pointer]:
+                    - /url: /brokers-advisors
+                    - text: Brokers &
+                    - generic: Advisors
+                  - paragraph [ref=f10e125]: View products, services and unique programs for your clients.
+          - article [ref=f10e128]:
+            - generic [ref=f10e143]:
+              - heading "Addressing Growing Interest in Long Term Care Benefits" [level=2] [ref=f10e147]
+              - paragraph [ref=f10e152]: As long term care costs continue to rise, employees are paying closer attention to benefits that can help them prepare for the future. Hybrid life insurance combines life insurance and long term care benefits, helping employees address financial protection needs during their working years and beyond.
+              - link "Learn How Hybrid Life Complements Group Life Insurance" [ref=f10e157] [cursor=pointer]:
+                - /url: /businesses-organizations/trends-resources/employer-resources/why-hybrid-life-insurance-complements-group-life-insurance
+          - generic [ref=f10e168]:
+            - heading "Protecting People and Futures Since 1906" [level=2] [ref=f10e172]
+            - paragraph [ref=f10e177]: Your family. Your team. Your future. For more than a century, we’ve helped people achieve financial well‑being and peace of mind through workplace benefits — including life, disability and retirement solutions. Like the traditions we support in our communities, we believe in showing up, giving back and making a lasting impact. We combine expertise, empathy and straightforward guidance to make protecting what matters most simpler and more personal.
+            - link "Get to Know The Standard" [ref=f10e183] [cursor=pointer]:
+              - /url: /get-to-know-standard
+          - generic [ref=f10e201]:
+            - generic [ref=f10e202]:
+              - heading "Explore Our Offerings" [level=2] [ref=f10e206]
+              - generic [ref=f10e207]: Employers can choose the products and services that match their employees’ needs.
+            - list [ref=f10e212]:
+              - listitem [ref=f10e213]:
+                - link "Life and AD&D in Content" [ref=f10e216] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/life-and-add
+                  - text: Life and
+                  - generic: AD&D
+              - listitem [ref=f10e217]:
+                - link "Short Term Disability in Content" [ref=f10e220] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/short-term-disability
+                  - text: Short Term
+                  - generic: Disability
+              - listitem [ref=f10e221]:
+                - link "Long Term Disability in Content" [ref=f10e224] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/long-term-disability
+                  - text: Long Term
+                  - generic: Disability
+              - listitem [ref=f10e225]:
+                - link "Paid Family and Medical Leave in Content" [ref=f10e228] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/paid-family-medical-leave
+                  - text: Paid Family and Medical
+                  - generic: Leave
+              - listitem [ref=f10e229]:
+                - link "Dental in Content" [ref=f10e232] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/dental
+                  - generic: Dental
+              - listitem [ref=f10e233]:
+                - link "Vision in Content" [ref=f10e236] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/vision
+                  - generic: Vision
+              - listitem [ref=f10e237]:
+                - link "Accident in Content" [ref=f10e240] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/accident
+                  - generic: Accident
+              - listitem [ref=f10e241]:
+                - link "Cancer in Content" [ref=f10e244] [cursor=pointer]:
+                  - /url: /individuals-families/workplace-benefits/cancer
+                  - generic: Cancer
+              - listitem [ref=f10e245]:
+                - link "Critical Illness* in Content" [ref=f10e248] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/critical-illness
+                  - text: Critical
+                  - generic: Illness*
+              - listitem [ref=f10e249]:
+                - link "Hospital Indemnity in Content" [ref=f10e252] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/hospital-indemnity
+                  - text: Hospital
+                  - generic: Indemnity
+              - listitem [ref=f10e253]:
+                - link "Voluntary Life in Content" [ref=f10e256] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/voluntary-life
+                  - text: Voluntary
+                  - generic: Life
+              - listitem [ref=f10e257]:
+                - link "Supplemental Insurance in New York in Content" [ref=f10e260] [cursor=pointer]:
+                  - /url: /businesses-organizations/workplace-benefits/supplemental-insurance-new-york
+                  - text: Supplemental Insurance in New
+                  - generic: York
+              - listitem [ref=f10e261]:
+                - link "Retirement Plans in Content" [ref=f10e264] [cursor=pointer]:
+                  - /url: /businesses-organizations/retirement
+                  - text: Retirement
+                  - generic: Plans
+          - generic [ref=f10e270]:
+            - generic [ref=f10e271]:
+              - heading "Support and Solutions for All Workplaces" [level=2] [ref=f10e275]
+              - paragraph [ref=f10e280]: We have benefits and solutions for clients of all sizes and types.
+              - link "Learn How We Can Support Your Workplace" [ref=f10e285] [cursor=pointer]:
+                - /url: /businesses-organizations
+            - generic [ref=f10e290]:
+              - generic:
+                - article [ref=f10e291]:
+                  - generic [ref=f10e348]:
+                    - heading "Workplace Possibilities℠ Program" [level=3] [ref=f10e351]
+                    - paragraph [ref=f10e357]: Learn about our proactive, whole-person approach to disability. We can provide personalized support to help employees stay at work or get back to work safely.
+                    - link "Explore the Workplace Possibilities Program in Content" [ref=f10e362] [cursor=pointer]:
+                      - /url: /businesses-organizations/workplace-benefits/workplace-possibilities-program
+                      - text: Explore the Workplace Possibilities
+                      - generic: Program
+                - article [ref=f10e363]:
+                  - generic [ref=f10e443]:
+                    - heading "Benefits Administration and Support" [level=3] [ref=f10e446]
+                    - paragraph [ref=f10e452]: Move forward with a dependable benefits administration experience, thanks to our partnerships with innovative companies. You get the support you need at every step, from enrollment to billing.
+                - article [ref=f10e453]:
+                  - generic [ref=f10e480]:
+                    - heading "Small Business Solutions" [level=3] [ref=f10e483]
+                    - paragraph [ref=f10e489]: Get the insurance and investment products you need for your small business, without sacrificing quality service.
+                - article [ref=f10e490]:
+                  - generic [ref=f10e516]:
+                    - heading "Best-in-Class Service" [level=3] [ref=f10e519]
+                    - paragraph [ref=f10e525]: Rely on service that’s based on our people-first commitment.
+          - generic [ref=f10e560]:
+            - heading "Join Our Team" [level=2] [ref=f10e564]
+            - generic [ref=f10e565]: Great opportunities for great people are always available here.
+            - link "Explore Careers" [ref=f10e573] [cursor=pointer]:
+              - /url: /get-to-know-standard/careers
+    - contentinfo [ref=f10e574]:
+      - generic [ref=f10e579]:
+        - generic [ref=f10e580]:
+          - navigation "Footer Menu" [ref=f10e585]:
+            - list [ref=f10e586]:
+              - listitem [ref=f10e587]:
+                - link "Individuals & Families" [ref=f10e589] [cursor=pointer]:
+                  - /url: /individuals-families
+                - list [ref=f10e590]:
+                  - listitem [ref=f10e591]:
+                    - link "Personal Insurance & Investments" [ref=f10e593] [cursor=pointer]:
+                      - /url: /individuals-families/personal-insurance-investments
+                  - listitem [ref=f10e594]:
+                    - link "Workplace Benefits for Individuals and Families" [ref=f10e596] [cursor=pointer]:
+                      - /url: /individuals-families/workplace-benefits
+                      - text: Workplace Benefits
+              - listitem [ref=f10e597]:
+                - link "Businesses & Organizations" [ref=f10e599] [cursor=pointer]:
+                  - /url: /businesses-organizations
+                - list [ref=f10e600]:
+                  - listitem [ref=f10e601]:
+                    - link "Workplace Benefits for Businesses and Organizations" [ref=f10e603] [cursor=pointer]:
+                      - /url: /businesses-organizations/workplace-benefits
+                      - text: Workplace Benefits
+                  - listitem [ref=f10e604]:
+                    - link "Retirement Plans for Businesses and Organizations" [ref=f10e606] [cursor=pointer]:
+                      - /url: /businesses-organizations/retirement
+                      - text: Retirement
+                  - listitem [ref=f10e607]:
+                    - link "Trends & Employer Resources" [ref=f10e609] [cursor=pointer]:
+                      - /url: /businesses-organizations/trends-resources
+              - listitem [ref=f10e610]:
+                - link "Brokers & Advisors" [ref=f10e612] [cursor=pointer]:
+                  - /url: /brokers-advisors
+                - list [ref=f10e613]:
+                  - listitem [ref=f10e614]:
+                    - link "Insurance" [ref=f10e616] [cursor=pointer]:
+                      - /url: /brokers-advisors/insurance-benefits
+                  - listitem [ref=f10e617]:
+                    - link "Retirement Plans for Advisors and TPAs" [ref=f10e619] [cursor=pointer]:
+                      - /url: /brokers-advisors/retirement
+                      - text: Retirement
+                  - listitem [ref=f10e620]:
+                    - link "Stable Value" [ref=f10e622] [cursor=pointer]:
+                      - /url: /brokers-advisors/stable-value-funds
+                  - listitem [ref=f10e623]:
+                    - link "Individual Disability" [ref=f10e625] [cursor=pointer]:
+                      - /url: /brokers-advisors/individual-disability
+                  - listitem [ref=f10e626]:
+                    - link "Annuities for Producers" [ref=f10e628] [cursor=pointer]:
+                      - /url: /brokers-advisors/annuities
+                      - text: Annuities
+              - listitem [ref=f10e629]:
+                - link "Get to Know The Standard" [ref=f10e631] [cursor=pointer]:
+                  - /url: /get-to-know-standard
+                - list [ref=f10e632]:
+                  - listitem [ref=f10e633]:
+                    - link "Community Impact" [ref=f10e635] [cursor=pointer]:
+                      - /url: /get-to-know-standard/community-impact
+                  - listitem [ref=f10e636]:
+                    - link "Newsroom" [ref=f10e638] [cursor=pointer]:
+                      - /url: /get-to-know-standard/newsroom
+                  - listitem [ref=f10e639]:
+                    - link "Research & Insights" [ref=f10e641] [cursor=pointer]:
+                      - /url: /get-to-know-standard/research-insights
+                  - listitem [ref=f10e642]:
+                    - link "Careers" [ref=f10e644] [cursor=pointer]:
+                      - /url: /get-to-know-standard/careers
+          - generic [ref=f10e645]:
+            - list [ref=f10e650]:
+              - listitem [ref=f10e651]:
+                - link "Contact Us in Footer" [ref=f10e654] [cursor=pointer]:
+                  - /url: /contact-us
+                  - text: Contact
+                  - generic: Us
+              - listitem [ref=f10e655]:
+                - link "File a Claim or Request a Leave in Footer" [ref=f10e658] [cursor=pointer]:
+                  - /url: /individuals-families/file-claim
+                  - text: File a Claim or Request a
+                  - generic: Leave
+              - listitem [ref=f10e659]:
+                - link "Find a Form in Footer" [ref=f10e662] [cursor=pointer]:
+                  - /url: /individuals-families/forms-page
+                  - text: Find a
+                  - generic: Form
+              - listitem [ref=f10e663]:
+                - link "Create an Account in Footer" [ref=f10e666] [cursor=pointer]:
+                  - /url: /individuals-families/create-account
+                  - text: Create an
+                  - generic: Account
+            - list [ref=f10e671]:
+              - listitem [ref=f10e672]:
+                - link "Visit Linked In For the Standard (opens in a new window)" [ref=f10e673] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/the-standard/
+              - listitem [ref=f10e677]:
+                - link "Visit Instagram for The Standard (opens in a new window)" [ref=f10e678] [cursor=pointer]:
+                  - /url: https://www.instagram.com/the.standard.us
+        - separator [ref=f10e682]
+        - generic [ref=f10e685]:
+          - navigation "Utility Links" [ref=f10e688]:
+            - list [ref=f10e689]:
+              - listitem [ref=f10e690]:
+                - link "Accessibility" [ref=f10e691] [cursor=pointer]:
+                  - /url: /get-to-know-standard/accessibility
+              - listitem [ref=f10e692]:
+                - link "Responsible Disclosure Program" [ref=f10e693] [cursor=pointer]:
+                  - /url: /get-to-know-standard/responsible-disclosure-program
+              - listitem [ref=f10e694]:
+                - link "Fraud Prevention" [ref=f10e695] [cursor=pointer]:
+                  - /url: /get-to-know-standard/insurance-fraud-prevention
+              - listitem [ref=f10e696]:
+                - link "Privacy & Legal" [ref=f10e697] [cursor=pointer]:
+                  - /url: /get-to-know-standard/legal-privacy
+              - listitem [ref=f10e698]:
+                - button "Cookie Preferences" [ref=f10e699] [cursor=pointer]
+          - generic [ref=f10e700]:
+            - article [ref=f10e701]:
+              - paragraph [ref=f10e705]: "* Critical Illness insurance is called Specified Disease insurance in New York and Vermont."
+            - article [ref=f10e706]:
+              - paragraph [ref=f10e710]: The Standard is a marketing name for Standard Insurance Company (Portland, Oregon), licensed in all states except New York, and The Standard Life Insurance Company of New York (White Plains, New York), licensed only in New York, and American Heritage Life Insurance Company (Jacksonville, Florida), licensed in all states except New York. Products and availability vary by state and are solely the responsibility of the applicable insurance company.
+          - generic [ref=f10e711]: © 2026 StanCorp Financial Group, Inc.
+  - navigation "Jump back to top":
+    - link "Jump back to top" [ref=f10e715] [cursor=pointer]:
+      - /url: "#main-content"

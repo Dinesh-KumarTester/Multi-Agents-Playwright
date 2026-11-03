@@ -1,0 +1,21 @@
+[     851ms] [ERROR] Access to manifest at 'https://cm.standard.com/sites/default/files/favicons/site.webmanifest' from origin 'https://login.standard.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://login.standard.com/:127
+[     851ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://cm.standard.com/sites/default/files/favicons/site.webmanifest:0
+[    1510ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://login.standard.com/po/user/get:0
+[    2019ms] [ERROR] Access to manifest at 'https://cm.standard.com/sites/default/files/favicons/site.webmanifest' from origin 'https://login.standard.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://login.standard.com/:0
+[    2019ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://cm.standard.com/sites/default/files/favicons/site.webmanifest:0
+[    2218ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://login.standard.com/dv/user/get:0
+[    7272ms] [INFO] 
+IFRAME-RESIZER
+
+Iframe-Resizer 5 is now available via the following two packages:
+
+ * @iframe-resizer/parent
+ * @iframe-resizer/child
+
+Additionally their are also new versions of iframe-resizer for React, Vue, and jQuery.
+
+Version 5 of iframe-resizer has been extensively rewritten to use modern browser APIs, which has enabled significantly better performance and greater accuracy in the detection of content resizing events.
+
+Please see https://iframe-resizer.com/upgrade for more details.
+ @ https://www.standard.com/libraries/iframe-resizer/js/iframeResizer.min.js?v=11.4.8:6
+[    7349ms] [INFO] 🌐 i18next is maintained with support from Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://monsido-consent.com/v1/assets/cookie-banner-modern.min.js:0

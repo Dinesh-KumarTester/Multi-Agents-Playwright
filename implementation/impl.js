@@ -3,12 +3,13 @@ import { LoginPage } from '../Pages/LoginPage.js';
 import { DashboardPage } from '../Pages/DashboardPage.js';
 import testdata from '../Data/locators_testdata.json' with { type: 'json' };
 
+
 export class Impl {
   constructor(page) {
     this.page = page;
     this.loginPage = new LoginPage(page);
     this.dashboardPage = new DashboardPage(page);
-  }
+  };
 
   async openLoginPage() {
     await test.step('Open the OrangeHRM login page', async () => {
